@@ -2,20 +2,48 @@
 # Attendance-Calculator
 Attendance Calculator is a Flutter app that helps students track attendance. It calculates how many classes can be bunked while maintaining the required percentage and how many need to be attended to cover shortages. With a simple interface and real-time calculations, it ensures easy attendance management.
 =======
-# hi
+# Attendance Tracker App
 
-A new Flutter project.
+A Flutter-based attendance management app designed to help students monitor and manage their attendance efficiently. This app allows students to calculate how many classes they need to attend to cover a shortage or how many they can afford to miss if they have a good attendance record.
 
-## Getting Started
+## Features
+- **Attendance Shortage Calculator**: If a student has a shortage in attendance, they can enter the number of classes conducted and attended to determine how many more they need to attend to meet the required percentage.
+- **Bunk Planner**: If a student has sufficient attendance, they can enter the same details to check how many classes they can afford to miss without falling below the required threshold.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- **Flutter** for cross-platform development
+- **Dart** as the programming language
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/attendance-tracker.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd attendance-tracker
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the app:
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+*(Add relevant screenshots here)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Future Enhancements
+- **Dark Mode Support**
+- **Customizable Attendance Threshold**
+- **Detailed Analytics and Reports**
+
+## Contributions
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## License
+This project is licensed under the MIT License.
 >>>>>>> b0a7825 (first commit)
+
