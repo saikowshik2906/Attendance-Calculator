@@ -32,8 +32,7 @@ A Flutter-based attendance management app designed to help students monitor and 
    flutter run
    ```
 
-## Screenshots
-*(Add relevant screenshots here)*
+
 
 ## Future Enhancements
 - **Dark Mode Support**
