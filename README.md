@@ -17,7 +17,7 @@ A Flutter-based attendance management app designed to help students monitor and 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/attendance-tracker.git
+   git clone https://github.com/saikowshik2906/attendance-tracker.git
    ```
 2. Navigate to the project directory:
    ```sh
